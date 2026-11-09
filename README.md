@@ -1,2 +1,1 @@
-# DevOpsLab0
-My Jenkins Continuous Integration experiment.
+Testing Jenkins Automatic Build through GitHub Webhook.
